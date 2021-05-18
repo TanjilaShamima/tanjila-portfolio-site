@@ -27,7 +27,7 @@ const TitleMessage = () => {
                         delay: 50
                         }}
                     /> */}
-                    <ReactRotatingText style={{fontSize:'20px'}}  items={['Full Stack Web Engineer', 'MERN Stack', 'React Developer', 'Node JS Developer']} />
+                    <ReactRotatingText style={{fontSize:'20px'}}  items={['Software Engineer', 'Full Stack Web Engineer', 'MERN Stack', 'React Developer', 'Node JS Developer']} />
                     </div>
                 </div>
                 </div>

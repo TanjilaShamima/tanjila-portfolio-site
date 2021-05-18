@@ -16,15 +16,15 @@ const MyAllExperience = () => {
                     </Card.Header>
                     <Card.Body className="d-flex justify-content-center flex-column">
                         <div>
-                        <Card.Title className="text-center">Full Stack Engineer Intern</Card.Title>
+                        <Card.Title className="text-center">Intern Software Engineer</Card.Title>
                         </div>
                         <div>
                         <Card.Text className="text-center style">
-                            <p className="body-title-style ">Flyte Solutions</p>
+                            <p className="body-title-style ">BJIT Group</p>
                             <br />
-                            <strong>Technology:</strong> React JS, Node JS, MongoDb, MySql, Express JS
+                            <strong>Technology:</strong> React JS, Node JS, Next JS, Nest JS, MongoDb, MySql, Express JS
                             <br />
-                            <strong>Duration:</strong>Jan 2021 - Present
+                            <strong>Duration:</strong>March 2021 - Present
                             <br/>
                             <strong> Description </strong>
                             <ul className="text-left">
